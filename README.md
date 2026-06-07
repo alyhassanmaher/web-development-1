@@ -1,4 +1,4 @@
-# Web 1 — Final Project
+# Web Development 1 — Final Project
 
 A college introductory Web Development project building a static or dynamic website from scratch.
 
